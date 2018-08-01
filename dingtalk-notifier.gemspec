@@ -6,7 +6,7 @@ require "dingtalk/notifier/version"
 Gem::Specification.new do |spec|
   spec.name          = "dingtalk-notifier"
   spec.version       = Dingtalk::Notifier::VERSION
-  spec.version       = Gem::Platform::RUBY
+  spec.platform      = Gem::Platform::RUBY
   spec.authors       = ["Never Min"]
   spec.email         = ["nevermin@gmail.com"]
 
